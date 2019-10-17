@@ -1,0 +1,23 @@
+body {
+  background: red;
+}
+.bluefont {
+  color: blue;
+}
+.padding {
+  padding-left: 100px;
+}
+.padding2 {
+  padding-left: 190px;
+}
+.padding3 {
+  padding-left: 10px;
+  line-height: 3;
+}
+.spacing {
+  line-height: 2;
+}
+a:link a:hover a:active {
+  text-decoration: none;
+  color: black;
+}

@@ -1,2 +1,0 @@
-# CrystalAboutMePage
-Created with CodeSandbox
